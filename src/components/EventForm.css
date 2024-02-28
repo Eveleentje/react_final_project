@@ -1,0 +1,19 @@
+form {
+    width: 40%;
+    padding: 25px 50px;
+    margin-bottom: 80px;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+@media screen and (max-width: 900px) {
+    form {
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    form {
+        width: 100%;
+    }
+}

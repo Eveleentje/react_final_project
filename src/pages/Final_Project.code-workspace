@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../Assignment_60_Routing"
+		},
+		{
+			"path": "../../../Assignment_59b_API"
+		},
+		{
+			"path": "../../../react-basics-project-starter/src/components"
+		},
+		{
+			"path": "../../../react-basics-project-starter/src/pages"
+		},
+		{
+			"path": "../../../Assignment_59_API"
+		}
+	],
+	"settings": {}
+}

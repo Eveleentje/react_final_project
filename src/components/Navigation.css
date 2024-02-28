@@ -1,0 +1,24 @@
+/* * {
+    color: #454987;
+} */
+
+nav {
+    padding: 15px;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    margin-right: 15px;
+}
+
+li a {
+    font-weight: bold;
+}
+
+li a:hover {
+    color: slategray;
+}
